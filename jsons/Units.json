@@ -101,6 +101,7 @@
 	{
 		"name": "Sharpshooter",
 		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "NativeRaiders",
 		"range": 3,
 		"movement": 3,
 		"strength": 15,
@@ -113,6 +114,7 @@
 	{
 		"name": "Elite Sharpshooter",
 		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "NativeRaiders",
 		"range": 4,
 		"movement": 3,
 		"strength": 15,
@@ -125,6 +127,7 @@
 	{
 		"name": "Tribal Cannon",
 		"unitType": "Siege",
+		"uniqueTo": "NativeRaiders",
 		"range": 1,
 		"replaces": "Cannon",
 		"uniqueTo": "NativeRaiders",
@@ -141,6 +144,7 @@
 	{
 		"name": "Tribal Artillery",
 		"unitType": "Siege",
+		"uniqueTo": "NativeRaiders",
 		"movement": 2,
 		"strength": 23,
 		"rangedStrength": 23,
