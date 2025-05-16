@@ -4,8 +4,8 @@
 	"adjective": ["Comanche"],
 	"leaderName": "Hienacten",
 	"preferredVictoryType": "Domination",
-	"startBias": ["Plains", "Horses"],
-	"favoredReligion": "Tengrism",
+	"startBias": ["Plains"],
+	"favoredReligion": "Christianity",
 
 	"declaringWar": "Hear the thunder of our war drums, foreign leader! The Lone Nation will not bow to your whims. Our arrows shall find your heart, and our horses will trample your ambitions. The wind of the plains carries our wrath!",
 	"attacked": "You dare to challenge the Comanche? Your arrows are but whispers in the storm. We shall rise like the sun, and your darkness shall be vanquished.",
@@ -20,7 +20,7 @@
 	"innerColor": [13, 92, 99],
 	"outerColor": [191, 69, 69],
 
-	"uniqueName": "The Warpath",
+	"uniqueName": "Raiders from the Plains ",
 	"uniques": ["[+25]% Strength <vs [City-States]>", "[+25]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
 		    "[+10]% Strength <for [Military] units> <in [Foreign Land] tiles>","Cannot build [Settler] units", "[+25]% [Gold] [in all cities] <when at war>"],
 
