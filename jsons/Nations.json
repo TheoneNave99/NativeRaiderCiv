@@ -1,38 +1,31 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+{
+	"name": "NativeRaiders",
+	"adjective": ["Comanche"],
+	"leaderName": "Hienacten",
+	"preferredVictoryType": "Domination",
+	"startBias": ["Plains", "Horses"],
+	"favoredReligion": "Tengrism",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+	"declaringWar": "Hear the thunder of our war drums, foreign leader! The Lone Nation will not bow to your whims. Our arrows shall find your heart, and our horses will trample your ambitions. The wind of the plains carries our wrath!",
+	"attacked": "You dare to challenge the Comanche? Your arrows are but whispers in the storm. We shall rise like the sun, and your darkness shall be vanquished.",
+	"defeated":"Your victory is hollow, for we fought with the pride of our ancestors. The plains will remember our names, and one day, the winds will carry our vengeance.",
+	"introduction": "I am Hienacten, son of the wind and the sun. The Lone Nation greet you with the honor of the hunt.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	"neutralHello": "Hienacten of the Lone Nation sends his regards. May our paths cross with peace.",
+	"hateHello": "The Lone Nation does not forget, and we do not forgive. Your blood shall stain the earth, and your name will be cursed among the tribes.",
+
+	"tradeRequest": "The Lone Nation has the finest hides and the swiftest horses. Let our exchanges benefit both our nations, and may the wind carry our words of peace.",
+
+	"innerColor": [13, 92, 99],
+	"outerColor": [191, 69, 69],
+
+	"uniqueName": "The Warpath",
+	"uniques": ["[+25]% Strength <vs [City-States]>", "[+25]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
+		    "[+10]% Strength <for [Military] units> <in [Foreign Land] tiles>","Cannot build [Settler] units", "[+25]% [Gold] [in all cities] <when at war>"],
+
+	"spyNames": ["Topusana", "Tosahwi", "Tatanka", "Mahto", "Na-to-ko-he", "Tse-ko-to", "Wa-to-ka", "Tse-to-ho", "To-ka-ko", "Mo-ko-to"],
+	"cities": ["Quahadi", "Nokoni", "Yappari", "Penateka", "Kotsoteka", "Ishtakhaba", "Kwahare", "Nocona", "Parua", "Hutto", "Yamparika", "Nokoni", "Yuwipi", "Taidapet", "Tsaari", "Kotsoteka", "Ishtakhaba", "Kwahare", "Nocona", "Parua", "Hutto", "Yamparika", "Nokoni", "Yuwipi", "Taidapet", "Tsaari", "Kotsoteka", "Ishtakhaba", "Kwahare", "Nocona"],
+},
+
 ]
