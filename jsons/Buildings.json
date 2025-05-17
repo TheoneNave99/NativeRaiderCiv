@@ -6,8 +6,7 @@
 		"cost": 25,
 		"food": 1,
 		"production": 1,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]", "[+1 Food] from [Furs] tiles [in this city]", "[+1 Food] from [Ivory] tiles [in this city]", "[+1 Food] from [Cattle] tiles [in this city]",
-			    "[+1 Culture] from [Deer] tiles [in this city]", "[+1 Culture] from [Furs] tiles [in this city]", "[+1 Culture] from [Ivory] tiles [in this city]", "[+1 Culture] from [Cattle] tiles [in this city]",
+		"uniques": ["[+1 Food] from [Camp] tiles [in this city]", "[+1 Culture] from [Camp] tiles [in this city]",
 			    "[+5]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Trapping"
 	},
@@ -17,8 +16,7 @@
 		"uniqueTo": "NativeRaiders",
 		"cost": 50,
 		"food": 2,
-		"uniques": ["[+1 Production] from [Horse] tiles [in this city]","[+1 Production] from [Deer] tiles [in this city]", "[+1 Production] from [Furs] tiles [in this city]", "[+1 Production] from [Ivory] tiles [in this city]", "[+1 Food] from [Production] tiles [in this city]",
-			    "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Faith] from [Furs] tiles [in this city]", "[+1 Faith] from [Ivory] tiles [in this city]", "[+1 Faith] from [Cattle] tiles [in this city]",
+		"uniques": ["[+1 Production] from [Camp] tiles [in this city]","[+1 Faith] from [Camp] tiles [in this city]",
 			    "[+5]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Horseback Riding"
 	},
